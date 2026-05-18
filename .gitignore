@@ -1,0 +1,11 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local build/deploy output
+.cache/
+dist/
+node_modules/
+.env
+*.log
